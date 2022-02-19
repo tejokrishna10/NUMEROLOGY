@@ -1,2 +1,2 @@
 # NUMEROLOGY
-This application predicts the chances of compatibility based on date of birth 
+This application predicts the chances of compatibility based on name of a person 
